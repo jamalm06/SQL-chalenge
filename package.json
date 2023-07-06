@@ -1,0 +1,29 @@
+{
+    "name": "12-sql-challenge",
+    "version": "1.0.0",
+    "description": "```md\r AS A business owner\r I WANT to be able to view and manage the departments, roles, and employees in my company\r SO THAT I can organize and plan my business\r ```",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": ""
+    },
+    "homepage": "",
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "inquirer": "^8.2.5",
+      "inquirer-loop": "^0.3.0",
+      "mysql": "^2.18.1",
+      "mysql2": "^3.4.5",
+      "sequelize": "^6.32.1"
+    }
+  }
