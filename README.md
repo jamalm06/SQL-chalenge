@@ -1,4 +1,4 @@
-#SQL challenge
+##SQL challenge
 
 ## Description
 This apps if for keeping track of employees to organize and plan business
